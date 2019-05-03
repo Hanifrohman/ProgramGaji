@@ -1,0 +1,7 @@
+F:\kuliah\Responsi-master\Responsi-master\Responsi\bin\Debug\Responsi.exe.config
+F:\kuliah\Responsi-master\Responsi-master\Responsi\bin\Debug\Responsi.exe
+F:\kuliah\Responsi-master\Responsi-master\Responsi\bin\Debug\Responsi.pdb
+F:\kuliah\Responsi-master\Responsi-master\Responsi\obj\Debug\Responsi.csprojAssemblyReference.cache
+F:\kuliah\Responsi-master\Responsi-master\Responsi\obj\Debug\Responsi.csproj.CoreCompileInputs.cache
+F:\kuliah\Responsi-master\Responsi-master\Responsi\obj\Debug\Responsi.exe
+F:\kuliah\Responsi-master\Responsi-master\Responsi\obj\Debug\Responsi.pdb
